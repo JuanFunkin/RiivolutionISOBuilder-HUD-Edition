@@ -1,0 +1,10 @@
+C:\Users\Gordo\Downloads\RiivolutionIsoBuilder-HUD (1)\RiivolutionIsoBuilder-main\RiivolutionIsoBuilder\bin\Debug\net472\tools\cygwin1.dll
+C:\Users\Gordo\Downloads\RiivolutionIsoBuilder-HUD (1)\RiivolutionIsoBuilder-main\RiivolutionIsoBuilder\bin\Debug\net472\tools\wit.exe
+C:\Users\Gordo\Downloads\RiivolutionIsoBuilder-HUD (1)\RiivolutionIsoBuilder-main\RiivolutionIsoBuilder\bin\Debug\net472\RiivolutionIsoBuilder.exe.config
+C:\Users\Gordo\Downloads\RiivolutionIsoBuilder-HUD (1)\RiivolutionIsoBuilder-main\RiivolutionIsoBuilder\bin\Debug\net472\RiivolutionIsoBuilder.exe
+C:\Users\Gordo\Downloads\RiivolutionIsoBuilder-HUD (1)\RiivolutionIsoBuilder-main\RiivolutionIsoBuilder\bin\Debug\net472\RiivolutionIsoBuilder.pdb
+C:\Users\Gordo\Downloads\RiivolutionIsoBuilder-HUD (1)\RiivolutionIsoBuilder-main\RiivolutionIsoBuilder\obj\Debug\net472\RiivolutionIsoBuilder.csproj.AssemblyReference.cache
+C:\Users\Gordo\Downloads\RiivolutionIsoBuilder-HUD (1)\RiivolutionIsoBuilder-main\RiivolutionIsoBuilder\obj\Debug\net472\RiivolutionIsoBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gordo\Downloads\RiivolutionIsoBuilder-HUD (1)\RiivolutionIsoBuilder-main\RiivolutionIsoBuilder\obj\Debug\net472\RiivolutionIsoBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Gordo\Downloads\RiivolutionIsoBuilder-HUD (1)\RiivolutionIsoBuilder-main\RiivolutionIsoBuilder\obj\Debug\net472\RiivolutionIsoBuilder.exe
+C:\Users\Gordo\Downloads\RiivolutionIsoBuilder-HUD (1)\RiivolutionIsoBuilder-main\RiivolutionIsoBuilder\obj\Debug\net472\RiivolutionIsoBuilder.pdb
